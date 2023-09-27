@@ -15,3 +15,5 @@
 | 5.|swap-salary|[swap-salary.py](/swap-salary.py)|https://leetcode.com/problems/swap-salary|
 | 6.|to-lower-case|[to-lower-case.ts](/to-lower-case.ts)|https://leetcode.com/problems/to-lower-case|
 | 7.|unique-morse-code-words|[unique-morse-code-words.ts](/unique-morse-code-words.ts)|https://leetcode.com/problems/unique-morse-code-words|
+| 8.|self-dividing-numbers|[self-dividing-numbers](/self-dividing-numbers.ts)|https://leetcode.com/problems/self-dividing-numbers|
+| 8.|two-sum|[two-sum](/two-sum.ts)|https://leetcode.com/problems/two-sum|
