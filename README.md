@@ -17,3 +17,4 @@
 | 7.|unique-morse-code-words|[unique-morse-code-words.ts](/unique-morse-code-words.ts)|https://leetcode.com/problems/unique-morse-code-words|
 | 8.|self-dividing-numbers|[self-dividing-numbers](/self-dividing-numbers.ts)|https://leetcode.com/problems/self-dividing-numbers|
 | 9.|two-sum|[two-sum](/two-sum.ts)|https://leetcode.com/problems/two-sum|
+| 10.|contains-duplicate|[contains-duplicate](/contains-duplicate.ts)|https://leetcode.com/problems/contains-duplicate|
