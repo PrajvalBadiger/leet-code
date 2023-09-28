@@ -18,3 +18,4 @@
 | 8.|self-dividing-numbers|[self-dividing-numbers](/self-dividing-numbers.ts)|https://leetcode.com/problems/self-dividing-numbers|
 | 9.|two-sum|[two-sum](/two-sum.ts)|https://leetcode.com/problems/two-sum|
 | 10.|contains-duplicate|[contains-duplicate](/contains-duplicate.ts)|https://leetcode.com/problems/contains-duplicate|
+| 11.|valid-anagram|[valid-anagram](/valid-anagram.ts)|https://leetcode.com/problems/valid-anagram|
