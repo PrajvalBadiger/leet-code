@@ -19,3 +19,4 @@
 | 9.|two-sum|[two-sum](/two-sum.ts)|https://leetcode.com/problems/two-sum|
 | 10.|contains-duplicate|[contains-duplicate](/contains-duplicate.ts)|https://leetcode.com/problems/contains-duplicate|
 | 11.|valid-anagram|[valid-anagram](/valid-anagram.ts)|https://leetcode.com/problems/valid-anagram|
+| 12.|group-anagrams|[group-anagrams](/group-anagrams.ts)|https://leetcode.com/problems/group-anagrams|
