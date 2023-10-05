@@ -24,3 +24,4 @@
 | 14.|product-of-array-except-self|[product-of-array-except-self](/product-of-array-except-self.ts)|https://leetcode.com/problems/product-of-array-except-self|
 | 15.|longest-palindromic-substring|[longest-palindromic-substring](/longest-palindromic-substring.ts)|https://leetcode.com/problems/longest-palindromic-substring|
 | 16.|longest-substring-without-repeating-characters|[longest-substring-without-repeating-characters](/longest-substring-without-repeating-characters.ts)|https://leetcode.com/problems/longest-substring-without-repeating-characters|
+| 17.|how-many-numbers-are-smaller-than-the-current-number|[how-many-numbers-are-smaller-than-the-current-number](/how-many-numbers-are-smaller-than-the-current-number.ts)|https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number|
