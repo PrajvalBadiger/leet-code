@@ -27,3 +27,4 @@
 | 17.|how-many-numbers-are-smaller-than-the-current-number|[how-many-numbers-are-smaller-than-the-current-number.ts](/how-many-numbers-are-smaller-than-the-current-number.ts)|https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number|
 | 18.|maximum-product-difference-between-two-pairs|[maximum-product-difference-between-two-pairs.ts](/maximum-product-difference-between-two-pairs.ts)|https://leetcode.com/problems/maximum-product-difference-between-two-pairs|
 | 19.|minimize-maximum-pair-sum-in-array|[minimize-maximum-pair-sum-in-array.ts](/minimize-maximum-pair-sum-in-array.ts)|https://leetcode.com/problems/minimize-maximum-pair-sum-in-array|
+| 20.|roman-to-integer|[roman-to-integer.ts](/roman-to-integer.ts)|https://leetcode.com/problems/roman-to-integer|
