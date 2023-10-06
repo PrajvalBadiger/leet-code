@@ -7,18 +7,11 @@ function minPairSum(nums: number[]): number {
     nums.sort((a, b) => a - b);
 
     // get the sum of min, max pairs
+    let max = 0
     while (l < r) {
-        pairs.push(nums[l] + nums[r]);
+        max = Math.max(max, nums[l] + nums[r]);
         l++;
         r--;
-    }
-
-    // find the max sum
-    let max = pairs[0];
-    for (let i = 1; i < pairs.length; i++) {
-        if (max < pairs[i]) {
-            max = pairs[i];
-        }
     }
 
     return max;
