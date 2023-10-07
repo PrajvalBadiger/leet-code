@@ -30,4 +30,4 @@
 | 20.|roman-to-integer|[roman-to-integer.ts](/roman-to-integer.ts)|https://leetcode.com/problems/roman-to-integer|
 | 21.|pascals-triangle|[pascals-triangle.ts](/pascals-triangle.ts)|https://leetcode.com/problems/pascals-triangle.ts|
 | 22.|longest-common-prefix|[longest-common-prefix.ts](/longest-common-prefix.ts)|https://leetcode.com/problems/longest-common-prefix.ts|
-
+| 23.|sort-array-by-parity.ts|[sort-array-by-parity.ts](/sort-array-by-parity.ts)|https://leetcode.com/problems/sort-array-by-parity.ts|
