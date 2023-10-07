@@ -29,3 +29,5 @@
 | 19.|minimize-maximum-pair-sum-in-array|[minimize-maximum-pair-sum-in-array.ts](/minimize-maximum-pair-sum-in-array.ts)|https://leetcode.com/problems/minimize-maximum-pair-sum-in-array|
 | 20.|roman-to-integer|[roman-to-integer.ts](/roman-to-integer.ts)|https://leetcode.com/problems/roman-to-integer|
 | 21.|pascals-triangle|[pascals-triangle.ts](/pascals-triangle.ts)|https://leetcode.com/problems/pascals-triangle.ts|
+| 22.|longest-common-prefix|[longest-common-prefix.ts](/longest-common-prefix.ts)|https://leetcode.com/problems/longest-common-prefix.ts|
+
