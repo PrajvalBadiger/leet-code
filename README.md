@@ -28,7 +28,7 @@
 | 18.|maximum-product-difference-between-two-pairs|[maximum-product-difference-between-two-pairs.ts](/maximum-product-difference-between-two-pairs.ts)|https://leetcode.com/problems/maximum-product-difference-between-two-pairs|
 | 19.|minimize-maximum-pair-sum-in-array|[minimize-maximum-pair-sum-in-array.ts](/minimize-maximum-pair-sum-in-array.ts)|https://leetcode.com/problems/minimize-maximum-pair-sum-in-array|
 | 20.|roman-to-integer|[roman-to-integer.ts](/roman-to-integer.ts)|https://leetcode.com/problems/roman-to-integer|
-| 21.|pascals-triangle|[pascals-triangle.ts](/pascals-triangle.ts)|https://leetcode.com/problems/pascals-triangle.ts|
-| 22.|longest-common-prefix|[longest-common-prefix.ts](/longest-common-prefix.ts)|https://leetcode.com/problems/longest-common-prefix.ts|
-| 23.|sort-array-by-parity.ts|[sort-array-by-parity.ts](/sort-array-by-parity.ts)|https://leetcode.com/problems/sort-array-by-parity.ts|
+| 21.|pascals-triangle|[pascals-triangle.ts](/pascals-triangle.ts)|https://leetcode.com/problems/pascals-triangle|
+| 22.|longest-common-prefix|[longest-common-prefix.ts](/longest-common-prefix.ts)|https://leetcode.com/problems/longest-common-prefix|
+| 23.|sort-array-by-parity.ts|[sort-array-by-parity.ts](/sort-array-by-parity.ts)|https://leetcode.com/problems/sort-array-by-parity|
 | 24.|valid-parentheses|[valid-parentheses.ts](/valid-parentheses.ts)|https://leetcode.com/problems/valid-parentheses|
