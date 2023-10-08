@@ -32,3 +32,4 @@
 | 22.|longest-common-prefix|[longest-common-prefix.ts](/longest-common-prefix.ts)|https://leetcode.com/problems/longest-common-prefix|
 | 23.|sort-array-by-parity.ts|[sort-array-by-parity.ts](/sort-array-by-parity.ts)|https://leetcode.com/problems/sort-array-by-parity|
 | 24.|valid-parentheses|[valid-parentheses.ts](/valid-parentheses.ts)|https://leetcode.com/problems/valid-parentheses|
+| 25.|longest-consecutive-sequence|[longest-consecutive-sequence.ts](/longest-consecutive-sequence.ts)|https://leetcode.com/problems/longest-consecutive-sequence|
