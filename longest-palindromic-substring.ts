@@ -1,3 +1,13 @@
+function isPalindrome(s: string, l: number, r: number): boolean {
+    r = r - 1;
+    while (l < r) {
+        if (s[l] !== s[r]) return false;
+        l++;
+        r--;
+    }
+    return true;
+}
+
 function longestPalindrome(s: string): string {
     let len = 0;
     let res = "";
@@ -22,17 +32,39 @@ function longestPalindrome(s: string): string {
     return res;
 };
 
-console.log(longestPalindrome("babad"));
-console.log(longestPalindrome("cbbd"));
-console.log(longestPalindrome("kyyrjtdplseovzwjkykrjwhxquwxsfsorjiumvxjhjmgeueafubtonhlerrgsgohfosqssmizcuqryqomsipovhhodpfyudtusjhonlqabhxfahfcjqxyckycstcqwxvicwkjeuboerkmjshfgiglceycmycadpnvoeaurqatesivajoqdilynbcihnidbizwkuaoegmytopzdmvvoewvhebqzskseeubnretjgnmyjwwgcooytfojeuzcuyhsznbcaiqpwcyusyyywqmmvqzvvceylnuwcbxybhqpvjumzomnabrjgcfaabqmiotlfojnyuolostmtacbwmwlqdfkbfikusuqtupdwdrjwqmuudbcvtpieiwteqbeyfyqejglmxofdjksqmzeugwvuniaxdrunyunnqpbnfbgqemvamaxuhjbyzqmhalrprhnindrkbopwbwsjeqrmyqipnqvjqzpjalqyfvaavyhytetllzupxjwozdfpmjhjlrnitnjgapzrakcqahaqetwllaaiadalmxgvpawqpgecojxfvcgxsbrldktufdrogkogbltcezflyctklpqrjymqzyzmtlssnavzcquytcskcnjzzrytsvawkavzboncxlhqfiofuohehaygxidxsofhmhzygklliovnwqbwwiiyarxtoihvjkdrzqsnmhdtdlpckuayhtfyirnhkrhbrwkdymjrjklonyggqnxhfvtkqxoicakzsxmgczpwhpkzcntkcwhkdkxvfnjbvjjoumczjyvdgkfukfuldolqnauvoyhoheoqvpwoisniv"));
+function longestPalindrome2(s: string): string {
+    let res = "";
+    let resLen = 0;
 
-function isPalindrome(s: string, l: number, r: number): boolean {
-    r = r - 1;
-    while (l < r) {
-        if (s[l] !== s[r]) return false;
-        l++;
-        r--;
+    for (let i = 0; i < s.length; i++) {
+        // odd case
+        let l = i;
+        let r = i;
+        while (l >= 0 && r < s.length && s[l] === s[r]) {
+            if (r - l + 1 > resLen) {
+                res = s.slice(l, r + 1);
+                resLen = r - l + 1;
+            }
+            l -= 1;
+            r += 1;
+        }
+
+        // even case
+        l = i;
+        r = i + 1;
+        while (l >= 0 && r < s.length && s[l] === s[r]) {
+            if (r - l + 1 > resLen) {
+                res = s.slice(l, r + 1);
+                resLen = r - l + 1;
+            }
+            l -= 1;
+            r += 1;
+        }
     }
-    return true;
+    return res
 }
+
+console.log(longestPalindrome2("babad"));
+console.log(longestPalindrome2("cbbd"));
+console.log(longestPalindrome2("kyyrjtdplseovzwjkykrjwhxquwxsfsorjiumvxjhjmgeueafubtonhlerrgsgohfosqssmizcuqryqomsipovhhodpfyudtusjhonlqabhxfahfcjqxyckycstcqwxvicwkjeuboerkmjshfgiglceycmycadpnvoeaurqatesivajoqdilynbcihnidbizwkuaoegmytopzdmvvoewvhebqzskseeubnretjgnmyjwwgcooytfojeuzcuyhsznbcaiqpwcyusyyywqmmvqzvvceylnuwcbxybhqpvjumzomnabrjgcfaabqmiotlfojnyuolostmtacbwmwlqdfkbfikusuqtupdwdrjwqmuudbcvtpieiwteqbeyfyqejglmxofdjksqmzeugwvuniaxdrunyunnqpbnfbgqemvamaxuhjbyzqmhalrprhnindrkbopwbwsjeqrmyqipnqvjqzpjalqyfvaavyhytetllzupxjwozdfpmjhjlrnitnjgapzrakcqahaqetwllaaiadalmxgvpawqpgecojxfvcgxsbrldktufdrogkogbltcezflyctklpqrjymqzyzmtlssnavzcquytcskcnjzzrytsvawkavzboncxlhqfiofuohehaygxidxsofhmhzygklliovnwqbwwiiyarxtoihvjkdrzqsnmhdtdlpckuayhtfyirnhkrhbrwkdymjrjklonyggqnxhfvtkqxoicakzsxmgczpwhpkzcntkcwhkdkxvfnjbvjjoumczjyvdgkfukfuldolqnauvoyhoheoqvpwoisniv"));
 
