@@ -34,3 +34,4 @@
 | 24.|valid-parentheses|[valid-parentheses.ts](/valid-parentheses.ts)|https://leetcode.com/problems/valid-parentheses|
 | 25.|longest-consecutive-sequence|[longest-consecutive-sequence.ts](/longest-consecutive-sequence.ts)|https://leetcode.com/problems/longest-consecutive-sequence|
 | 26.|minimum-sum-of-four-digit-number-after-splitting-digits|[minimum-sum-of-four-digit-number-after-splitting-digits](/minimum-sum-of-four-digit-number-after-splitting-digits.ts)|https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits|
+| 27.|valid-palindrome|[valid-palindrome](/valid-palindrome.ts)|https://leetcode.com/problems/valid-palindrome|
