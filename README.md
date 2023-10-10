@@ -33,6 +33,8 @@
 | 23.|sort-array-by-parity.ts|[sort-array-by-parity.ts](/sort-array-by-parity.ts)|https://leetcode.com/problems/sort-array-by-parity|
 | 24.|valid-parentheses|[valid-parentheses.ts](/valid-parentheses.ts)|https://leetcode.com/problems/valid-parentheses|
 | 25.|longest-consecutive-sequence|[longest-consecutive-sequence.ts](/longest-consecutive-sequence.ts)|https://leetcode.com/problems/longest-consecutive-sequence|
-| 26.|minimum-sum-of-four-digit-number-after-splitting-digits|[minimum-sum-of-four-digit-number-after-splitting-digits](/minimum-sum-of-four-digit-number-after-splitting-digits.ts)|https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits|
-| 27.|valid-palindrome|[valid-palindrome](/valid-palindrome.ts)|https://leetcode.com/problems/valid-palindrome|
-| 28.|arithmetic-subarrays|[arithmetic-subarrays](/arithmetic-subarrays.ts)|https://leetcode.com/problems/arithmetic-subarrays|
+| 26.|minimum-sum-of-four-digit-number-after-splitting-digits|[minimum-sum-of-four-digit-number-after-splitting-digits.ts](/minimum-sum-of-four-digit-number-after-splitting-digits.ts)|https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits|
+| 27.|valid-palindrome|[valid-palindrome.ts](/valid-palindrome.ts)|https://leetcode.com/problems/valid-palindrome|
+| 28.|arithmetic-subarrays|[arithmetic-subarrays.ts](/arithmetic-subarrays.ts)|https://leetcode.com/problems/arithmetic-subarrays|
+| 29.|find-target-indices-after-sorting-array|[find-target-indices-after-sorting-array.ts](/find-target-indices-after-sorting-array.ts)|https://leetcode.com/problems/find-target-indices-after-sorting-array|
+| 30.|array-partition|[array-partition.ts](/array-partition.ts)|https://leetcode.com/problems/array-partition|
