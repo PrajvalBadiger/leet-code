@@ -30,7 +30,6 @@ function letterCombinations(digits) {
                 newCombinations.push(res[j] + numberMap[digits[i]][k]);
             }
         }
-        console.log(newCombinations);
         res = newCombinations;
     }
 
