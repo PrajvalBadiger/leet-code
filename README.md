@@ -39,3 +39,4 @@
 | 29.|find-target-indices-after-sorting-array|[find-target-indices-after-sorting-array.ts](/find-target-indices-after-sorting-array.ts)|https://leetcode.com/problems/find-target-indices-after-sorting-array|
 | 30.|array-partition|[array-partition.ts](/array-partition.ts)|https://leetcode.com/problems/array-partition|
 | 31.|maximum-number-of-coins-you-can-get|[maximum-number-of-coins-you-can-get.ts](/maximum-number-of-coins-you-can-get.ts)|https://leetcode.com/problems/maximum-number-of-coins-you-can-get|
+| 32.|letter-combinations-of-a-phone-number|[letter-combinations-of-a-phone-number.ts](/letter-combinations-of-a-phone-number.ts)|https://leetcode.com/problems/letter-combinations-of-a-phone-number|
