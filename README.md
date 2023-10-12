@@ -42,3 +42,4 @@
 | 32.|letter-combinations-of-a-phone-number|[letter-combinations-of-a-phone-number.ts](/letter-combinations-of-a-phone-number.ts)|https://leetcode.com/problems/letter-combinations-of-a-phone-number|
 | 33.|count-negative-numbers-in-a-sorted-matrix|[count-negative-numbers-in-a-sorted-matrix.ts](/count-negative-numbers-in-a-sorted-matrix.ts)|https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix|
 | 34.|binary-search|[binary-search.ts](/binary-search.ts)|https://leetcode.com/problems/binary-search|
+| 35.|3sum|[3sum.ts](/3sum.ts)|https://leetcode.com/problems/3sum|
