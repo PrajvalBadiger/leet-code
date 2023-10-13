@@ -44,3 +44,4 @@
 | 34.|binary-search|[binary-search.ts](/binary-search.ts)|https://leetcode.com/problems/binary-search|
 | 35.|3sum|[3sum.ts](/3sum.ts)|https://leetcode.com/problems/3sum|
 | 36.|capacity-to-ship-packages-within-d-days|[capacity-to-ship-packages-within-d-days.ts](/capacity-to-ship-packages-within-d-days.ts)|https://leetcode.com/problems/capacity-to-ship-packages-within-d-days|
+| 37.|single-element-in-a-sorted-array|[single-element-in-a-sorted-array.ts](/single-element-in-a-sorted-array.ts)|https://leetcode.com/problems/single-element-in-a-sorted-array|
