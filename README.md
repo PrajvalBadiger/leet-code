@@ -48,3 +48,4 @@
 | 38.|search-a-2d-matrix|[search-a-2d-matrix.ts](/search-a-2d-matrix.ts)|https://leetcode.com/problems/search-a-2d-matrix|
 | 39.|koko-eating-bananas|[koko-eating-bananas.ts](/koko-eating-bananas.ts)|https://leetcode.com/problems/koko-eating-bananas|
 | 40.|remove-duplicates-from-sorted-array|[remove-duplicates-from-sorted-array.ts](/remove-duplicates-from-sorted-array.ts)|https://leetcode.com/problems/remove-duplicates-from-sorted-array|
+| 41.|remove-element|[remove-element.ts](/remove-element.ts)|https://leetcode.com/problems/remove-element|
