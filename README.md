@@ -50,3 +50,4 @@
 | 40.|remove-duplicates-from-sorted-array|[remove-duplicates-from-sorted-array.ts](/remove-duplicates-from-sorted-array.ts)|https://leetcode.com/problems/remove-duplicates-from-sorted-array|
 | 41.|remove-element|[remove-element.ts](/remove-element.ts)|https://leetcode.com/problems/remove-element|
 | 42.|merge-two-sorted-lists|[merge-two-sorted-lists.ts](/merge-two-sorted-lists.ts)|https://leetcode.com/problems/merge-two-sorted-lists|
+| 43.|remove-nth-node-from-end-of-list|[remove-nth-node-from-end-of-list.ts](/remove-nth-node-from-end-of-list.ts)|https://leetcode.com/problems/remove-nth-node-from-end-of-list|
