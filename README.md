@@ -52,3 +52,4 @@
 | 42.|merge-two-sorted-lists|[merge-two-sorted-lists.ts](/merge-two-sorted-lists.ts)|https://leetcode.com/problems/merge-two-sorted-lists|
 | 43.|remove-nth-node-from-end-of-list|[remove-nth-node-from-end-of-list.ts](/remove-nth-node-from-end-of-list.ts)|https://leetcode.com/problems/remove-nth-node-from-end-of-list|
 | 44.|132-pattern|[132-pattern.ts](/132-pattern.ts)|https://leetcode.com/problems/132-pattern|
+| 45.|majority-element|[majority-element.ts](/majority-element.ts)|https://leetcode.com/problems/majority-element|
