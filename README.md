@@ -53,3 +53,4 @@
 | 43.|remove-nth-node-from-end-of-list|[remove-nth-node-from-end-of-list.ts](/remove-nth-node-from-end-of-list.ts)|https://leetcode.com/problems/remove-nth-node-from-end-of-list|
 | 44.|132-pattern|[132-pattern.ts](/132-pattern.ts)|https://leetcode.com/problems/132-pattern|
 | 45.|majority-element|[majority-element.ts](/majority-element.ts)|https://leetcode.com/problems/majority-element|
+| 46.|my-calendar-i|[my-calendar-i.ts](/my-calendar-i.ts)|https://leetcode.com/problems/my-calendar-i|
