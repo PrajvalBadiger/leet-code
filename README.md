@@ -54,3 +54,4 @@
 | 44.|132-pattern|[132-pattern.ts](/132-pattern.ts)|https://leetcode.com/problems/132-pattern|
 | 45.|majority-element|[majority-element.ts](/majority-element.ts)|https://leetcode.com/problems/majority-element|
 | 46.|my-calendar-i|[my-calendar-i.ts](/my-calendar-i.ts)|https://leetcode.com/problems/my-calendar-i|
+| 47.|make-the-string-great|[make-the-string-great.ts](/make-the-string-great.ts)|https://leetcode.com/problems/make-the-string-great|
