@@ -58,3 +58,4 @@
 | 48.|my-calendar-ii|[my-calendar-ii.ts](/my-calendar-ii.ts)/[my-calendar-ii.cpp](/my-calendar-ii.cpp)|https://leetcode.com/problems/my-calendar-ii|
 | 49.|trapping-rain-water|[trapping-rain-water.ts](/trapping-rain-water.ts)|https://leetcode.com/problems/trapping-rain-water|
 | 50.|basic-calculator|[basic-calculator.js](/basic-calculator.js)|https://leetcode.com/problems/basic-calculator|
+| 51.|sort-characters-by-frequency|[sort-characters-by-frequency.js](/sort-characters-by-frequency.js)|https://leetcode.com/problems/sort-characters-by-frequency|
