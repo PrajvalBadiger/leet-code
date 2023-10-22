@@ -59,3 +59,4 @@
 | 49.|trapping-rain-water|[trapping-rain-water.ts](/trapping-rain-water.ts)|https://leetcode.com/problems/trapping-rain-water|
 | 50.|basic-calculator|[basic-calculator.js](/basic-calculator.js)|https://leetcode.com/problems/basic-calculator|
 | 51.|sort-characters-by-frequency|[sort-characters-by-frequency.js](/sort-characters-by-frequency.js)|https://leetcode.com/problems/sort-characters-by-frequency|
+| 52.|build-an-array-with-stack-operations|[build-an-array-with-stack-operations.ts](/build-an-array-with-stack-operations.ts)|https://leetcode.com/problems/build-an-array-with-stack-operations|
