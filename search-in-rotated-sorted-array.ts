@@ -7,7 +7,6 @@ function search(nums: number[], target: number): number {
     while (left <= right) {
         mid = left + Math.ceil((right - left) / 2);
 
-        // console.log(left, mid, right, nums.slice(left, right + 1));
         if (nums[mid] < nums[mid - 1]) {
             break;
         } if (nums[mid] > nums[0] && nums[mid] > nums[nums.length - 1]) {
