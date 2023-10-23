@@ -61,3 +61,4 @@
 | 51.|sort-characters-by-frequency|[sort-characters-by-frequency.js](/sort-characters-by-frequency.js)|https://leetcode.com/problems/sort-characters-by-frequency|
 | 52.|build-an-array-with-stack-operations|[build-an-array-with-stack-operations.ts](/build-an-array-with-stack-operations.ts)|https://leetcode.com/problems/build-an-array-with-stack-operations|
 | 53.|min-stack|[min-stack.ts](/min-stack.ts)|https://leetcode.com/problems/min-stack|
+| 54.|count-and-say|[count-and-say.ts](/count-and-say.ts)|https://leetcode.com/problems/count-and-say|
