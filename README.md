@@ -62,3 +62,4 @@
 | 52.|build-an-array-with-stack-operations|[build-an-array-with-stack-operations.ts](/build-an-array-with-stack-operations.ts)|https://leetcode.com/problems/build-an-array-with-stack-operations|
 | 53.|min-stack|[min-stack.ts](/min-stack.ts)|https://leetcode.com/problems/min-stack|
 | 54.|count-and-say|[count-and-say.ts](/count-and-say.ts)|https://leetcode.com/problems/count-and-say|
+| 55.|search-in-rotated-sorted-array|[search-in-rotated-sorted-array.ts](/search-in-rotated-sorted-array.ts)|https://leetcode.com/problems/search-in-rotated-sorted-array|
