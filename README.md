@@ -66,3 +66,4 @@
 | 56.|contains-duplicate-ii|[contains-duplicate-ii.ts](/contains-duplicate-ii.ts)|https://leetcode.com/problems/contains-duplicate-ii|
 | 57.|happy-number|[happy-number.ts](/happy-number.ts)|https://leetcode.com/problems/happy-number|
 | 58.|missing-number|[missing-number.ts](/missing-number.ts)|https://leetcode.com/missing-number|
+| 59.|find-the-difference-of-two-arrays|[find-the-difference-of-two-arrays.ts](/find-the-difference-of-two-arrays.ts)|https://leetcode.com/find-the-difference-of-two-arrays|
