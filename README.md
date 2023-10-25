@@ -69,3 +69,4 @@
 | 59.|find-the-difference-of-two-arrays|[find-the-difference-of-two-arrays.ts](/find-the-difference-of-two-arrays.ts)|https://leetcode.com/problems/find-the-difference-of-two-arrays|
 | 60.|rearrange-characters-to-make-target-string|[rearrange-characters-to-make-target-string.ts](/rearrange-characters-to-make-target-string.ts)|https://leetcode.com/problems/rearrange-characters-to-make-target-string|
 | 61.|intersection-of-multiple-arrays|[intersection-of-multiple-arrays.ts](/intersection-of-multiple-arrays.ts)|https://leetcode.com/problems/intersection-of-multiple-arrays|
+| 62.|count-prefixes-of-a-given-string|[count-prefixes-of-a-given-string.ts](/count-prefixes-of-a-given-string.ts)|https://leetcode.com/problems/count-prefixes-of-a-given-string|
