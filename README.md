@@ -65,6 +65,7 @@
 | 55.|search-in-rotated-sorted-array|[search-in-rotated-sorted-array.ts](/search-in-rotated-sorted-array.ts)|https://leetcode.com/problems/search-in-rotated-sorted-array|
 | 56.|contains-duplicate-ii|[contains-duplicate-ii.ts](/contains-duplicate-ii.ts)|https://leetcode.com/problems/contains-duplicate-ii|
 | 57.|happy-number|[happy-number.ts](/happy-number.ts)|https://leetcode.com/problems/happy-number|
-| 58.|missing-number|[missing-number.ts](/missing-number.ts)|https://leetcode.com/missing-number|
-| 59.|find-the-difference-of-two-arrays|[find-the-difference-of-two-arrays.ts](/find-the-difference-of-two-arrays.ts)|https://leetcode.com/find-the-difference-of-two-arrays|
-| 60.|rearrange-characters-to-make-target-string|[rearrange-characters-to-make-target-string.ts](/rearrange-characters-to-make-target-string.ts)|https://leetcode.com/rearrange-characters-to-make-target-string|
+| 58.|missing-number|[missing-number.ts](/missing-number.ts)|https://leetcode.com/problems/missing-number|
+| 59.|find-the-difference-of-two-arrays|[find-the-difference-of-two-arrays.ts](/find-the-difference-of-two-arrays.ts)|https://leetcode.com/problems/find-the-difference-of-two-arrays|
+| 60.|rearrange-characters-to-make-target-string|[rearrange-characters-to-make-target-string.ts](/rearrange-characters-to-make-target-string.ts)|https://leetcode.com/problems/rearrange-characters-to-make-target-string|
+| 61.|intersection-of-multiple-arrays|[intersection-of-multiple-arrays.ts](/intersection-of-multiple-arrays.ts)|https://leetcode.com/problems/intersection-of-multiple-arrays|
