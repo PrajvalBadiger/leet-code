@@ -64,3 +64,4 @@
 | 54.|count-and-say|[count-and-say.ts](/count-and-say.ts)|https://leetcode.com/problems/count-and-say|
 | 55.|search-in-rotated-sorted-array|[search-in-rotated-sorted-array.ts](/search-in-rotated-sorted-array.ts)|https://leetcode.com/problems/search-in-rotated-sorted-array|
 | 56.|contains-duplicate-ii|[contains-duplicate-ii.ts](/contains-duplicate-ii.ts)|https://leetcode.com/problems/contains-duplicate-ii|
+| 57.|happy-number|[happy-number.ts](/happy-number.ts)|https://leetcode.com/problems/happy-number|
