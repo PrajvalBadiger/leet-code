@@ -65,3 +65,4 @@
 | 55.|search-in-rotated-sorted-array|[search-in-rotated-sorted-array.ts](/search-in-rotated-sorted-array.ts)|https://leetcode.com/problems/search-in-rotated-sorted-array|
 | 56.|contains-duplicate-ii|[contains-duplicate-ii.ts](/contains-duplicate-ii.ts)|https://leetcode.com/problems/contains-duplicate-ii|
 | 57.|happy-number|[happy-number.ts](/happy-number.ts)|https://leetcode.com/problems/happy-number|
+| 58.|missing-number|[missing-number.ts](/missing-number.ts)|https://leetcode.com/missing-number|
