@@ -72,3 +72,4 @@
 | 62.|count-prefixes-of-a-given-string|[count-prefixes-of-a-given-string.ts](/count-prefixes-of-a-given-string.ts)|https://leetcode.com/problems/count-prefixes-of-a-given-string|
 | 63.|merge-intervals|[merge-intervals.ts](/merge-intervals.ts)|https://leetcode.com/problems/merge-intervals|
 | 64.|rotate-image|[rotate-image.ts](/rotate-image.ts)|https://leetcode.com/problems/rotate-image|
+| 65.|sqrtx|[sqrtx.ts](/sqrtx.ts)|https://leetcode.com/problems/sqrtx|
