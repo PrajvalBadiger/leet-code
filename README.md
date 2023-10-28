@@ -74,3 +74,4 @@
 | 64.|rotate-image|[rotate-image.ts](/rotate-image.ts)|https://leetcode.com/problems/rotate-image|
 | 65.|sqrtx|[sqrtx.ts](/sqrtx.ts)|https://leetcode.com/problems/sqrtx|
 | 66.|implement-stack-using-queues|[implement-stack-using-queues.ts](/implement-stack-using-queues.ts)|https://leetcode.com/problems/implement-stack-using-queues|
+| 67.|implement-queue-using-stacks|[implement-queue-using-stacks.ts](/implement-queue-using-stacks.ts)|https://leetcode.com/problems/implement-queue-using-stacks|
