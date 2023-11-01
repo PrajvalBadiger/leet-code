@@ -1,38 +1,25 @@
 function letterCombinations(digits) {
-
     if (digits.length === 0) {
         return [];
     }
 
-    let numberMap = {
-        "2": "abc",
-        "3": "def",
-        "4": "ghi",
-        "5": "jkl",
-        "6": "mno",
-        "7": "pqrs",
-        "8": "tuv",
-        "9": "wxyz",
-    };
+    const numberMap = ["abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"];
+    const res = []
 
-    let res = [""];
-
-    // 1. collect the letters of first digit (newCombinations = res + first digit letter) 
-    // 2. add the letters of next digit to the letters collected in step 1 (res + second digit letter)
-    // 3. repeat for n digits
-    // Ex: "23"
-    // 1. [""] -> ["a", "b", "c"] (add a, b, c)
-    // 2. ["a", "b", "c"] -> [ "ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf" ] (add d, e, f)
-    for (let i = 0; i < digits.length; i++) {
-        let newCombinations = [];
-        for (let j = 0; j < res.length; j++) {
-            for (let k = 0; k < numberMap[digits[i]].length; k++) {
-                newCombinations.push(res[j] + numberMap[digits[i]][k]);
-            }
+    function backtrack(combination, res, nextDigits) {
+        if (nextDigits.length === 0) {
+            res.push(combination)
+            return
         }
-        res = newCombinations;
+
+        const letters = numberMap[parseInt(nextDigits[0] - 2)]
+
+        for (const letter of letters) {
+            backtrack(combination + letter, res, nextDigits.slice(1))
+        }
     }
 
+    backtrack("", res, digits)
     return res;
 };
 
