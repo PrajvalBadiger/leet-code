@@ -75,3 +75,4 @@
 | 65.|sqrtx|[sqrtx.ts](/sqrtx.ts)|https://leetcode.com/problems/sqrtx|
 | 66.|implement-stack-using-queues|[implement-stack-using-queues.ts](/implement-stack-using-queues.ts)|https://leetcode.com/problems/implement-stack-using-queues|
 | 67.|implement-queue-using-stacks|[implement-queue-using-stacks.ts](/implement-queue-using-stacks.ts)|https://leetcode.com/problems/implement-queue-using-stacks|
+| 68.|binary-tree-paths|[binary-tree-paths.ts](/binary-tree-paths.ts)|https://leetcode.com/problems/binary-tree-paths|
