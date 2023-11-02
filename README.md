@@ -77,3 +77,4 @@
 | 67.|implement-queue-using-stacks|[implement-queue-using-stacks.ts](/implement-queue-using-stacks.ts)|https://leetcode.com/problems/implement-queue-using-stacks|
 | 68.|binary-tree-paths|[binary-tree-paths.ts](/binary-tree-paths.ts)|https://leetcode.com/problems/binary-tree-paths|
 | 69.|generate-parentheses|[generate-parentheses.ts](/generate-parentheses.ts)|https://leetcode.com/problems/generate-parentheses|
+| 70.|unique-paths|[unique-paths.ts](/unique-paths.ts)|https://leetcode.com/problems/unique-paths|
