@@ -80,3 +80,4 @@
 | 70.|unique-paths|[unique-paths.ts](/unique-paths.ts)|https://leetcode.com/problems/unique-paths|
 | 71.|subarray-sum-equals-k|[subarray-sum-equals-k.ts](/subarray-sum-equals-k.ts)|https://leetcode.com/problems/subarray-sum-equals-k|
 | 72.|sudoku-solver|[sudoku-solver.ts](/sudoku-solver.ts)|https://leetcode.com/problems/sudoku-solver|
+| 73.|subarrays-with-k-different-integers|[subarrays-with-k-different-integers.ts](/subarrays-with-k-different-integers.ts)|https://leetcode.com/problems/subarrays-with-k-different-integers|
