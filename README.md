@@ -83,3 +83,4 @@
 | 73.|subarrays-with-k-different-integers|[subarrays-with-k-different-integers.ts](/subarrays-with-k-different-integers.ts)|https://leetcode.com/problems/subarrays-with-k-different-integers|
 | 74.|subsets|[subsets.ts](/subsets.ts)|https://leetcode.com/problems/subsets|
 | 75.|n-queens|[n-queens.ts](/n-queens.ts)|https://leetcode.com/problems/n-queens|
+| 76.|n-queens-ii|[n-queens-ii.ts](/n-queens-ii.ts)|https://leetcode.com/problems/n-queens-ii|
