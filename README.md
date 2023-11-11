@@ -86,3 +86,5 @@
 | 76.|n-queens-ii|[n-queens-ii.ts](/n-queens-ii.ts)|https://leetcode.com/problems/n-queens-ii|
 | 77.|fibonacci-number|[fibonacci-number.ts](/fibonacci-number.ts)|https://leetcode.com/problems/fibonacci-number|
 | 78.|best-time-to-buy-and-sell-stock|[best-time-to-buy-and-sell-stock.ts](/best-time-to-buy-and-sell-stock.ts)|https://leetcode.com/best-time-to-buy-and-sell-stock|
+| 78.|best-time-to-buy-and-sell-stock-ii|[best-time-to-buy-and-sell-stock-ii.ts](/best-time-to-buy-and-sell-stock-ii.ts)|https://leetcode.com/best-time-to-buy-and-sell-stock-ii|
+| 78.|best-time-to-buy-and-sell-stock-iii|[best-time-to-buy-and-sell-stock-iii.ts](/best-time-to-buy-and-sell-stock-iii.ts)|https://leetcode.com/best-time-to-buy-and-sell-stock-iii|
