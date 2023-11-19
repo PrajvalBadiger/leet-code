@@ -91,3 +91,4 @@
 | 81.|binary-tree-level-order-traversal|[binary-tree-level-order-traversal.ts](/binary-tree-level-order-traversal.ts)|https://leetcode.com/problems/binary-tree-level-order-traversal|
 | 82.|binary-tree-zigzag-level-order-traversal|[binary-tree-zigzag-level-order-traversal.ts](/binary-tree-zigzag-level-order-traversal.ts)|https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal|
 | 83.|binary-tree-inorder-traversal|[binary-tree-inorder-traversal.ts](/binary-tree-inorder-traversal.ts)|https://leetcode.com/problems/binary-tree-inorder-traversal|
+| 84.|maximum-depth-of-binary-tree|[maximum-depth-of-binary-tree.ts](/maximum-depth-of-binary-tree.ts)|https://leetcode.com/problems/maximum-depth-of-binary-tree|
