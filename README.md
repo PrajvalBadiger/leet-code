@@ -90,3 +90,4 @@
 | 80.|best-time-to-buy-and-sell-stock-iii|[best-time-to-buy-and-sell-stock-iii.ts](/best-time-to-buy-and-sell-stock-iii.ts)|https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii|
 | 81.|binary-tree-level-order-traversal|[binary-tree-level-order-traversal.ts](/binary-tree-level-order-traversal.ts)|https://leetcode.com/problems/binary-tree-level-order-traversal|
 | 82.|binary-tree-zigzag-level-order-traversal|[binary-tree-zigzag-level-order-traversal.ts](/binary-tree-zigzag-level-order-traversal.ts)|https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal|
+| 83.|binary-tree-inorder-traversal|[binary-tree-inorder-traversal.ts](/binary-tree-inorder-traversal.ts)|https://leetcode.com/problems/binary-tree-inorder-traversal|
