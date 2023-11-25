@@ -18,7 +18,7 @@ class Solution {
             res.push_back(nums);
             return;
         }
-        for (int i = 0; i < nums.size(); i++) {
+        for (int i = start; i < nums.size(); i++) {
             swap(nums[i], nums[start]);
             dfs(nums, start + 1, res);
             swap(nums[i], nums[start]);
