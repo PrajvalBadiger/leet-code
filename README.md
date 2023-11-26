@@ -96,3 +96,4 @@
 | 86.|permutations|[permutations.cpp](/permutations.cpp)|https://leetcode.com/problems/permutations|
 | 87.|subsets-ii|[subsets-ii.cpp](/subsets-ii.cpp)|https://leetcode.com/problems/subsets-ii|
 | 88.|keep-multiplying-found-values-by-two|[keep-multiplying-found-values-by-two.cpp](/keep-multiplying-found-values-by-two.cpp)|https://leetcode.com/problems/keep-multiplying-found-values-by-two|
+| 88.|contains-duplicate-iii|[contains-duplicate-iii.cpp](/contains-duplicate-iii.cpp)|https://leetcode.com/problems/contains-duplicate-iii|
