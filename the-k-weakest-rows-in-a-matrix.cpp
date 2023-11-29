@@ -18,12 +18,19 @@ class Solution {
         }
 
         // 2. sort the array
-        sort(soldiers.begin(), soldiers.end());
+        priority_queue<pair<int, int>> pq;
+        for (size_t i = 0; i < soldiers.size(); i++) {
+            soldiers[i].first *= -1;
+            soldiers[i].second *= -1;
+            pq.push(soldiers[i]);
+        }
 
         // 3. return k kWeakestRows
         vector<int> k_weakest_rows;
-        for (size_t i = 0; i < k; i++) {
-            k_weakest_rows.push_back(soldiers[i].second);
+        int i = 0;
+        while (k-- > 0 && !pq.empty()) {
+            k_weakest_rows.push_back(-1 * pq.top().second);
+            pq.pop();
         }
 
         return k_weakest_rows;
