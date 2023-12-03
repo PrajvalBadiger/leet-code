@@ -102,3 +102,4 @@
 | 93.|linked-list-cycle|[linked-list-cycle.cpp](/linked-list-cycle.cpp)|https://leetcode.com/problems/linked-list-cycle|
 | 94.|the-k-weakest-rows-in-a-matrix|[the-k-weakest-rows-in-a-matrix.cpp](/the-k-weakest-rows-in-a-matrix.cpp)|https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix|
 | 95.|largest-number-after-digit-swaps-by-parity|[largest-number-after-digit-swaps-by-parity.cpp](/largest-number-after-digit-swaps-by-parity.cpp)|https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity|
+| 96.|same-tree|[same-tree.cpp](/same-tree.cpp)|https://leetcode.com/problems/same-tree|
