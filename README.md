@@ -106,3 +106,4 @@
 | 97.|diameter-of-binary-tree|[diameter-of-binary-tree.cpp](/diameter-of-binary-tree.cpp)|https://leetcode.com/problems/diameter-of-binary-tree|
 | 98.|reverse-linked-list|[reverse-linked-list.cpp](/reverse-linked-list.cpp)|https://leetcode.com/problems/reverse-linked-list|
 | 99.|reverse-linked-list-ii|[reverse-linked-list-ii.cpp](/reverse-linked-list-ii.cpp)|https://leetcode.com/problems/reverse-linked-list-ii|
+| 100.|find-the-duplicate-number|[find-the-duplicate-number.cpp](/find-the-duplicate-number.cpp)|https://leetcode.com/problems/find-the-duplicate-number|
