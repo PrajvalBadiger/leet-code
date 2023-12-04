@@ -104,3 +104,4 @@
 | 95.|largest-number-after-digit-swaps-by-parity|[largest-number-after-digit-swaps-by-parity.cpp](/largest-number-after-digit-swaps-by-parity.cpp)|https://leetcode.com/problems/largest-number-after-digit-swaps-by-parity|
 | 96.|same-tree|[same-tree.cpp](/same-tree.cpp)|https://leetcode.com/problems/same-tree|
 | 97.|diameter-of-binary-tree|[diameter-of-binary-tree.cpp](/diameter-of-binary-tree.cpp)|https://leetcode.com/problems/diameter-of-binary-tree|
+| 98.|reverse-linked-list|[reverse-linked-list.cpp](/reverse-linked-list.cpp)|https://leetcode.com/problems/reverse-linked-list|
