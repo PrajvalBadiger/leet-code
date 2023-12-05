@@ -112,3 +112,4 @@
 | 103.|count-primes|[count-primes.cpp](/count-primes.cpp)|https://leetcode.com/problems/count-primes|
 | 104.|kth-largest-element-in-an-array|[kth-largest-element-in-an-array.cpp](/kth-largest-element-in-an-array.cpp)|https://leetcode.com/problems/kth-largest-element-in-an-array|
 | 105.|factorial-trailing-zeroes|[factorial-trailing-zeroes.cpp](/factorial-trailing-zeroes.cpp)|https://leetcode.com/problems/factorial-trailing-zeroes|
+| 106.|top-k-frequent-words|[top-k-frequent-words.cpp](/top-k-frequent-words.cpp)|https://leetcode.com/problems/top-k-frequent-words|
