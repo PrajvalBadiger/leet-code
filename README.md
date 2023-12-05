@@ -109,3 +109,4 @@
 | 100.|find-the-duplicate-number|[find-the-duplicate-number.cpp](/find-the-duplicate-number.cpp)|https://leetcode.com/problems/find-the-duplicate-number|
 | 101.|symmetric-tree|[symmetric-tree.cpp](/symmetric-tree.cpp)|https://leetcode.com/problems/symmetric-tree|
 | 102.|all-paths-from-source-to-target|[all-paths-from-source-to-target.cpp](/all-paths-from-source-to-target.cpp)|https://leetcode.com/problems/all-paths-from-source-to-target|
+| 103.|count-primes|[count-primes.cpp](/count-primes.cpp)|https://leetcode.com/problems/count-primes|
