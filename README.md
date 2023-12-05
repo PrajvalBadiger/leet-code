@@ -107,4 +107,5 @@
 | 98.|reverse-linked-list|[reverse-linked-list.cpp](/reverse-linked-list.cpp)|https://leetcode.com/problems/reverse-linked-list|
 | 99.|reverse-linked-list-ii|[reverse-linked-list-ii.cpp](/reverse-linked-list-ii.cpp)|https://leetcode.com/problems/reverse-linked-list-ii|
 | 100.|find-the-duplicate-number|[find-the-duplicate-number.cpp](/find-the-duplicate-number.cpp)|https://leetcode.com/problems/find-the-duplicate-number|
-| 101.|symmetric-tree|[symmetric-tree|https://leetcode.com/problems/symmetric-tree|
+| 101.|symmetric-tree|[symmetric-tree.cpp](/symmetric-tree.cpp)|https://leetcode.com/problems/symmetric-tree|
+| 102.|all-paths-from-source-to-target|[all-paths-from-source-to-target.cpp](/all-paths-from-source-to-target.cpp)|https://leetcode.com/problems/all-paths-from-source-to-target|
