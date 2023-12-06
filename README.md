@@ -1,6 +1,7 @@
 # My Leet code solutions
 
 # Languages
+- C++
 - Typescript
 - Python
 
@@ -113,3 +114,4 @@
 | 104.|kth-largest-element-in-an-array|[kth-largest-element-in-an-array.cpp](/kth-largest-element-in-an-array.cpp)|https://leetcode.com/problems/kth-largest-element-in-an-array|
 | 105.|factorial-trailing-zeroes|[factorial-trailing-zeroes.cpp](/factorial-trailing-zeroes.cpp)|https://leetcode.com/problems/factorial-trailing-zeroes|
 | 106.|top-k-frequent-words|[top-k-frequent-words.cpp](/top-k-frequent-words.cpp)|https://leetcode.com/problems/top-k-frequent-words|
+| 107.|merge-k-sorted-lists|[merge-k-sorted-lists.cpp](/merge-k-sorted-lists.cpp)|https://leetcode.com/problems/merge-k-sorted-lists|
