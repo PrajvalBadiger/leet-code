@@ -59,7 +59,7 @@
 | 48.|my-calendar-ii|[my-calendar-ii.ts](/my-calendar-ii.ts)/[my-calendar-ii.cpp](/my-calendar-ii.cpp)|https://leetcode.com/problems/my-calendar-ii|
 | 49.|trapping-rain-water|[trapping-rain-water.ts](/trapping-rain-water.ts)|https://leetcode.com/problems/trapping-rain-water|
 | 50.|basic-calculator|[basic-calculator.js](/basic-calculator.js)|https://leetcode.com/problems/basic-calculator|
-| 51.|sort-characters-by-frequency|[sort-characters-by-frequency.js](/sort-characters-by-frequency.js)|https://leetcode.com/problems/sort-characters-by-frequency|
+| 51.|sort-characters-by-frequency|[sort-characters-by-frequency.js](/sort-characters-by-frequency.js)/[sort-characters-by-frequency](/sort-characters-by-frequency.cpp)|https://leetcode.com/problems/sort-characters-by-frequency|
 | 52.|build-an-array-with-stack-operations|[build-an-array-with-stack-operations.ts](/build-an-array-with-stack-operations.ts)|https://leetcode.com/problems/build-an-array-with-stack-operations|
 | 53.|min-stack|[min-stack.ts](/min-stack.ts)|https://leetcode.com/problems/min-stack|
 | 54.|count-and-say|[count-and-say.ts](/count-and-say.ts)|https://leetcode.com/problems/count-and-say|
