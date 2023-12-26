@@ -126,3 +126,4 @@
 | 116.|number-of-provinces|[number-of-provinces.cpp](/number-of-provinces.cpp)|https://leetcode.com/problems/number-of-provinces|
 | 117.|number-of-islands|[number-of-islands.cpp](/number-of-islands.cpp)|https://leetcode.com/problems/number-of-islands|
 | 118.|redundant-connection|[redundant-connection.cpp](/redundant-connection.cpp)|https://leetcode.com/problems/redundant-connection|
+| 119.|number-of-operations-to-make-network-connected|[number-of-operations-to-make-network-connected.cpp](/number-of-operations-to-make-network-connected.cpp)|https://leetcode.com/problems/number-of-operations-to-make-network-connected|
