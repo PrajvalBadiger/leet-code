@@ -128,3 +128,4 @@
 | 118.|redundant-connection|[redundant-connection.cpp](/redundant-connection.cpp)|https://leetcode.com/problems/redundant-connection|
 | 119.|number-of-operations-to-make-network-connected|[number-of-operations-to-make-network-connected.cpp](/number-of-operations-to-make-network-connected.cpp)|https://leetcode.com/problems/number-of-operations-to-make-network-connected|
 | 120.|kth-smallest-element-in-a-bst|[kth-smallest-element-in-a-bst.cpp](/kth-smallest-element-in-a-bst.cpp)|https://leetcode.com/problems/kth-smallest-element-in-a-bst|
+| 121.|first-unique-character-in-a-string|[first-unique-character-in-a-string.cpp](/first-unique-character-in-a-string.cpp)|https://leetcode.com/problems/first-unique-character-in-a-string|
