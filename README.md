@@ -131,3 +131,4 @@
 | 121.|first-unique-character-in-a-string|[first-unique-character-in-a-string.cpp](/first-unique-character-in-a-string.cpp)|https://leetcode.com/problems/first-unique-character-in-a-string|
 | 122.|remove-k-digits|[remove-k-digits.cpp](/remove-k-digits.cpp)|https://leetcode.com/problems/remove-k-digits|
 | 123.|house-robber|[house-robber.cpp](/house-robber.cpp)|https://leetcode.com/problems/house-robber|
+| 124.|next-greater-element-i|[next-greater-element-i.cpp](/next-greater-element-i.cpp)|https://leetcode.com/problems/next-greater-element-i|
