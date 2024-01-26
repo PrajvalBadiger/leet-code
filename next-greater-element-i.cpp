@@ -1,7 +1,10 @@
 /* 496. Next Greater Element I
- * revisit to solve using monotonic stack
+ * Solution uses monotonic stack to find the next Greater Element
+ * of each of the elements in nums2 and stores this in a map
  */
 #include <iostream>
+#include <stack>
+#include <unordered_map>
 #include <vector>
 using namespace std;
 
@@ -10,23 +13,25 @@ class Solution {
     vector<int> nextGreaterElement(vector<int> &nums1, vector<int> &nums2) {
         int n = nums1.size();
         int m = nums2.size();
-        vector<int> res(n, -1);
+
+        vector<int> res(n);
+        unordered_map<int, int> next_greater;
+        stack<int> s;
+
+        // find the next greater element for all elements in nums2
+        for (int i = m - 1; i >= 0; i--) {
+            while (!s.empty() && s.top() < nums2[i]) {
+                s.pop();
+            }
+
+            next_greater[nums2[i]] = s.empty() ? -1 : s.top();
+            s.push(nums2[i]);
+        }
 
         for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (nums1[i] == nums2[j]) {
-                    int k = j + 1;
-                    while (k < m) {
-                        if (nums1[i] < nums2[k]) {
-                            res[i] = nums2[k];
-                            break;
-                        }
-                        k++;
-                    }
-                    break;
-                }
-            }
+            res[i] = next_greater[nums1[i]];
         }
+
         return res;
     }
 };
