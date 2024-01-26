@@ -130,3 +130,4 @@
 | 120.|kth-smallest-element-in-a-bst|[kth-smallest-element-in-a-bst.cpp](/kth-smallest-element-in-a-bst.cpp)|https://leetcode.com/problems/kth-smallest-element-in-a-bst|
 | 121.|first-unique-character-in-a-string|[first-unique-character-in-a-string.cpp](/first-unique-character-in-a-string.cpp)|https://leetcode.com/problems/first-unique-character-in-a-string|
 | 122.|remove-k-digits|[remove-k-digits.cpp](/remove-k-digits.cpp)|https://leetcode.com/problems/remove-k-digits|
+| 123.|house-robber|[house-robber.cpp](/house-robber.cpp)|https://leetcode.com/problems/house-robber|
