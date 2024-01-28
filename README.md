@@ -136,3 +136,4 @@
 | 126.|next-greater-node-in-linked-list|[next-greater-node-in-linked-list.cpp](/next-greater-node-in-linked-list.cpp)|https://leetcode.com/problems/next-greater-node-in-linked-list|
 | 127.|sort-list|[sort-list.cpp](/sort-list.cpp)|https://leetcode.com/problems/sort-list|
 | 128.|middle-of-the-linked-list|[middle-of-the-linked-list.cpp](/middle-of-the-linked-list.cpp)|https://leetcode.com/problems/middle-of-the-linked-list|
+| 129.|delete-the-middle-node-of-a-linked-list|[delete-the-middle-node-of-a-linked-list.cpp](/delete-the-middle-node-of-a-linked-list.cpp)|https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list|
