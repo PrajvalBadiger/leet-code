@@ -133,4 +133,5 @@
 | 123.|house-robber|[house-robber.cpp](/house-robber.cpp)|https://leetcode.com/problems/house-robber|
 | 124.|next-greater-element-i|[next-greater-element-i.cpp](/next-greater-element-i.cpp)|https://leetcode.com/problems/next-greater-element-i|
 | 125.|next-greater-element-ii|[next-greater-element-ii.cpp](/next-greater-element-ii.cpp)|https://leetcode.com/problems/next-greater-element-ii|
-| 126.|next-greater-node-in-linked-list|[next-greater-node-in-linked-list.cpp](/next-greater-node-in-linked-list.cpp)|https://leetcode.com/problemsnext-greater-node-in-linked-list|
+| 126.|next-greater-node-in-linked-list|[next-greater-node-in-linked-list.cpp](/next-greater-node-in-linked-list.cpp)|https://leetcode.com/problems/next-greater-node-in-linked-list|
+| 127.|sort-list|[sort-list.cpp](/sort-list.cpp)|https://leetcode.com/problems/sort-list|
