@@ -1,6 +1,6 @@
 /*
  * 322. Coin Change
- * dp problem - bottom up approch to solve the problem
+ * dp problem - bottom up approach to solve the problem
  * sub problem - min coins needed to make up i$
  */
 #include <vector>
