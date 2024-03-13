@@ -143,3 +143,4 @@
 | 133.|flatten-binary-tree-to-linked-list|[flatten-binary-tree-to-linked-list.cpp](/flatten-binary-tree-to-linked-list.cpp)|https://leetcode.com/problems/flatten-binary-tree-to-linked-list|
 | 134.|coin-change|[coin-change.cpp](/coin-change.cpp)|https://leetcode.com/problems/coin-change|
 | 135.|min-cost-climbing-stairs|[min-cost-climbing-stairs.cpp](/min-cost-climbing-stairs.cpp)|https://leetcode.com/problems/min-cost-climbing-stairs|
+| 136.|remove-duplicates-from-sorted-list|[remove-duplicates-from-sorted-list.cpp](/remove-duplicates-from-sorted-list.cpp)|https://leetcode.com/problems/remove-duplicates-from-sorted-list|
